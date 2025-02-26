@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/d40a0f9a-c605-4d74-b0cf-be46eeeab013
 
 ![Screenshot 2025-02-26 231002](https://github.com/user-attachments/assets/95c46725-deae-4015-a67b-7e4b532b2247)
 
-## Contributing
+## Contributions
 Contributions are welcome! If you'd like to improve the game, feel free to fork the repository and submit a pull request.
 
 ## Credits
