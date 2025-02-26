@@ -44,6 +44,8 @@ Ensure you have the following installed:
 4. The first player to align three marks in a row, column, or diagonal wins.
 5. If the grid is full without a winner, the game ends in a draw.
 
+https://github.com/user-attachments/assets/d40a0f9a-c605-4d74-b0cf-be46eeeab013
+
 ## Screenshots
 
 ![Screenshot 2025-02-26 231102](https://github.com/user-attachments/assets/4ab1adae-ac92-472d-8134-83c4467137bd)
@@ -54,7 +56,8 @@ Ensure you have the following installed:
 Contributions are welcome! If you'd like to improve the game, feel free to fork the repository and submit a pull request.
 
 ## Credits
-This project was inspired by and built with guidance from Code Monkey. (https://www.youtube.com/watch?v=YmUnXsOp_t0)
+This project was inspired by and built with guidance from Code Monkey.
+(https://www.youtube.com/watch?v=YmUnXsOp_t0)
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
