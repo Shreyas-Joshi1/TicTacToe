@@ -4,7 +4,7 @@ A simple Tic-Tac-Toe game built using Unity. This project serves as a great intr
 ![Screenshot 2025-02-26 231034](https://github.com/user-attachments/assets/4479707f-cef8-4c80-b306-13387013cb2c)
 
 ## Features
-- **Lobby System** – Players can join a lobby to start a game.
+- **Lobby System** – Players can join a lobby to start a game (Credits: Code Monkey).
 
 ![Screenshot 2025-02-26 230040](https://github.com/user-attachments/assets/a3f3454d-87ea-4af7-930d-53cb8200c830)
 
